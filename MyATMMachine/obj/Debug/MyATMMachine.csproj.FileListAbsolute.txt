@@ -1,0 +1,7 @@
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.exe.config
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.exe
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.pdb
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.csproj.AssemblyReference.cache
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.csproj.CoreCompileInputs.cache
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.exe
+C:\Users\havra\source\repos\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.pdb
